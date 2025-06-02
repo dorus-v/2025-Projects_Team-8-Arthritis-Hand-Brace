@@ -1,3 +1,6 @@
-# Arthritis-Hand-Brace-Project-Natuur--en-Sterrenkunde
+# 2025-Projects_Team-8-Arthritis-Hand-Brace
 
-fdashfkjdsajhfjklasdh
+Ivan Snel
+Levi de Koning
+Dorus Vrolijk
+Eladje Barry
