@@ -34,6 +34,9 @@ for photo in photo_table:
 
 ratio = area_table[1] / area_table[0]
 
+if ratio > 1:
+    ratio = 1/ratio
+
 print("Image 1 area:", area_table[0])
 print("Image 2 area:", area_table[1])
 print("Ratio:", ratio)
