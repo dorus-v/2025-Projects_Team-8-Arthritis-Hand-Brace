@@ -1,0 +1,10 @@
+RESULTS
+
+Layout: Aantal "cells", Ratio, Pixel area 1, Pixel area 2
+
+5, 0.778949045285755
+6, 0.8054248279930325
+7, 0.8028529681178124
+8, 0.8362424137528831
+9, 0.8818193195430247
+Lijnen op varierende hoogte, 0.8123017448309892
