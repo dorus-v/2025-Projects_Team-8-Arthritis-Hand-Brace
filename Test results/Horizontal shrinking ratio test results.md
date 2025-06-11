@@ -1,6 +1,6 @@
 RESULTS
 
-Layout: Aantal "cells", Ratio, Pixel area 1, Pixel area 2
+Layout: Aantal cells, Ratio
 
 2, 0.7535601129428351
 4, 0.7929260301785797
