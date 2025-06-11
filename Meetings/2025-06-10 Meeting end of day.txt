@@ -1,0 +1,13 @@
+2025/06/10 END OF DAY MEETING
+
+Eladje:
+-Manim orientation: graphs, general use, setting end goal
+
+Ivan:
+-Learned inkscape basics
+-Hexagon cell structure svg and gcode
+-Explored triangle cell structure
+
+Dorus:
+-3d brace model
+-printed the first prototype
