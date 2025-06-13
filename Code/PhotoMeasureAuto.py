@@ -22,7 +22,7 @@ for photo in photo_table:
 
     img_gray = cv2.cvtColor(img_selection, cv2.COLOR_BGR2GRAY)
 
-    ret, thresh  = cv2.threshold(img_gray, 80, 255, cv2.THRESH_BINARY_INV)
+    ret, thresh  = cv2.threshold(img_gray, 120, 255, cv2.THRESH_BINARY_INV)
 
     contours, hierarchy = cv2.findContours(thresh, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
     cv2.drawContours(img_selection, contours, -1, (0,255,0), 3)
@@ -34,8 +34,7 @@ for photo in photo_table:
 
 ratio = area_table[1] / area_table[0]
 
-if ratio > 1:
-    ratio = 1/ratio
+ratio = min(ratio, 1/ratio)
 
 print("Image 1 area:", area_table[0])
 print("Image 2 area:", area_table[1])
