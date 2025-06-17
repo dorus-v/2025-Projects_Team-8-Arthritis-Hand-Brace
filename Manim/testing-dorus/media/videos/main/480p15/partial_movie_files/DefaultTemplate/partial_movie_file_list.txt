@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/Documents/070 University/Arthritis-Hand-Brace-Project-Natuur--en-Sterrenkunde/Manim/testing-dorus/media/videos/main/480p15/partial_movie_files/DefaultTemplate/2289379569_1758655934_223132457.mp4'
+file 'file:C:/Users/Admin/Documents/070 University/Arthritis-Hand-Brace-Project-Natuur--en-Sterrenkunde/Manim/testing-dorus/media/videos/main/480p15/partial_movie_files/DefaultTemplate/921762691_1581929212_3256495558.mp4'
+file 'file:C:/Users/Admin/Documents/070 University/Arthritis-Hand-Brace-Project-Natuur--en-Sterrenkunde/Manim/testing-dorus/media/videos/main/480p15/partial_movie_files/DefaultTemplate/921762691_208288666_3256495558.mp4'
