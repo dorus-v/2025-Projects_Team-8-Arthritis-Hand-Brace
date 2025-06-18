@@ -1,0 +1,14 @@
+MEETING 1:
+
+GOALS FOR TODAY:
+
+-Rough script for animation
+-Print first blender-based hand brace
+-Finish layout of poster
+
+END OF DAY MEETING
+
+-Blender model now works
+-Brainstormed about animation/video
+-Shot some video scenes
+-Initial poster layout complete
