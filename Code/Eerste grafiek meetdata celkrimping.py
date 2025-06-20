@@ -16,9 +16,13 @@ y_waarden = [
 theo_y_waarden = []
 while len(theo_y_waarden) < 8:
     theo_y_waarden.append(2/3.14)
+
+y_err= [0.006596087420748464, 0.006187548181318392, 0.006444236732278119, 0.006388844138703775, 0.0058027575323342795, 0.005669752954743812, 0.005395569036881098, 0.004525034124974403]
+
 # Plot maken
 plt.figure(figsize=(8, 5))
 plt.plot(x_waarden, y_waarden, marker='o', linestyle='-', color='blue', label='Measured value')
+plt.errorbar(x_waarden, y_waarden, y_err, linestyle='')
 plt.plot(x_waarden, theo_y_waarden, linestyle='--', color='red', label='Theoretical value')
 plt.xlabel("Number of cells", fontsize=15)
 plt.ylabel("Shrinkage factor", fontsize=15)
