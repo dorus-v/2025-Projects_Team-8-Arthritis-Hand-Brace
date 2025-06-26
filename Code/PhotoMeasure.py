@@ -13,3 +13,5 @@ area = cv2.contourArea(contours[0])
 print("area:" , area)
 
 cv2.imwrite('Object.jpeg', img)
+
+#I used this tutorial: https://www.geeksforgeeks.org/python/measure-size-of-an-object-using-python-opencv/

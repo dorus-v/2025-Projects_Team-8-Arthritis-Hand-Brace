@@ -14,3 +14,5 @@ cv2.imwrite('Object.jpeg', img_before)
 cv2.waitKey(0)
 
 cv2.imwrite('object_with_contours.jpg', img_before)
+
+#I used this tutorial: https://www.geeksforgeeks.org/python/measure-size-of-an-object-using-python-opencv/
