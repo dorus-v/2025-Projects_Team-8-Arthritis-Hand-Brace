@@ -5,7 +5,7 @@ counter = 2
 
 
 
-neppe_data = [
+nieuwe_data = [
             0.6845803764097439,
             0.7107355256748643,
              0.7055512240760954,
@@ -17,7 +17,7 @@ neppe_data = [
         ]
 
 
-for i in neppe_data:
+for i in nieuwe_data:
     
     counter = counter + 1 
 

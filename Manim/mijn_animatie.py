@@ -49,7 +49,7 @@ import math
 
 class MijnRatioGrafiekEchtNew(Scene):
     def construct(self):
-        neppe_data = [
+        nieuwe_data = [
             (2, 0.6738163147980806),
             (3, 0.6974220979862596),
             (4, 0.688413993731318),
@@ -60,8 +60,8 @@ class MijnRatioGrafiekEchtNew(Scene):
             (9, 0.7936531053777592),
         ]
 
-        x_values = [d[0] for d in neppe_data]
-        y_values = [d[1] for d in neppe_data]
+        x_values = [d[0] for d in nieuwe_data]
+        y_values = [d[1] for d in nieuwe_data]
         
         y_perfect_line_value = 2 / math.pi 
 
