@@ -1,0 +1,24 @@
+
+
+
+iteratie 9 geeft goede ondersteuning en heeft de juiste richting alleen nog net een beetje aan de kleine kant. voor iteratie 8,9 is het van belang dat cellen over de duim langer gemaakt worden. 
+ 
+iteratie 8 heeft ipv paden als afkader onderdelen circkels gekregen, dit zorgt hopelijk dat er een redelijke afscheidingen. de plaatsen met circkels gavenvooral minder druk, er was een lichte afkadering. er kunnen pop deze punten wel echtra lucht toevoer, wat erg nice is. 
+
+iteratie 7 heeft een interessante vorm om te kijken wat de beste vorm is voor de brace, deze is vrij dun.
+na printen en opblazen hebben we bevonden dat dit een erg veel belovende vorm is, de sluiting valt bijna op de juiste plek. de cellen moeten wel een iets andere orientatie hebben maar dat wordt in de volgende itteraties behandeld
+
+
+iteratie 6 omdat de vorige zweterig was hebben we nu gaten toegevoegd aan de brace, dit in verschillende grootte en verschillende dichtheid om te kunnen kijken wat het verschil zou doen voor de stevigheid van de brace. daarnaast hebben we een cel bij de duim toegevoegd wat voor extra stabiliteit zou moeten zorgen voor de binnenkant van de duim met een oppervlakte om wee met visdraad een sluiting te kunnen maken. ook hebben we redelijk andere vorm gekregen met de hoop dat deze sluiting nu meer op de onderkant van de hand valt. verder een grootte cel bij de palm van de hand. de sluiting aan lucht is ook iets breder gemaakt zodat de buisjes er goed in kunnen.
+na printen en opblasen hebben we bevonden dat deze gaten in de brace voor goede ventilatie zorgen, wel komt er gelijk bij kijken dat op deeze plekken een enorme afname in druk komt. dit komt doordat de(cellen) om de gaten kleiner worden, en zoals gezien zorgt dit voor afname in druk. verder werkte de extra cel boven op de duim niet zoals gehoopt.de vorm van deze brace is nog helaas niet optimaal omdat hij een te hoge sluiting geeft. 
+
+
+iteratie 5 gaf minder goed steun door de kleine cellen, aan het uiteinden zitten nu vlakjes waar we met visdraad door gaatjes te weven mooie sterkere binding hebben. We merkten op dat de aansluiting niet de juiste dikte meer heeft dit gaan we aanpakken voor volgende iteraties. de sluiting zat wat hoog dus dit hebben we veranderd om hopelijk lager te sluiten. de driehoek structuur was door (te) kleine cellen niet analyseerbaar of dit een goede structuur was. We merkten ook dat het een best zwetige brace werd, we willen extra buitenlucht toevoer toevoegen.
+
+iteratie 4 gaf goede steun aan de achterkant van de hand door de grootte van de cellen. het gat zat op de juiste positie maar kwam niet naar voren hoe gewild. er zou een punt voor druk op deze plek moeten komen maar dat viel dus erg tegen, misschien omdat het een te klein deel was geworden in de palm van de hand. (latere iteraties word dit aangepakt). de sluiting kwam toe hoog uit en er waren nog geen plekken waar de vlap aan elkaar gemaakt kon worden. om de duim was er een druk aan de buiten (goed druk) maar de binnenkant wordt nog met tape vast gemaakt waardoor er in de binnenkant een druk tekort opviel.
+
+iteratie 3 heef verschil dat er nu aan de buitenkant van de duim een groot oppervlak is waardoor er een overdreven grootte druk op de duim komt, dit was ook niet de plek waar de deze plek eigenlijk wilde want we wilden hem in de handpalm. minder stevigheid door meer smallere cellen. er viel niets op over de verplaatsing van lucht door de brace. 3 en 4 hebben verschillende punten waar de lucht zich kan verplaatsen4 midden slits en 3 heeft alleen aan de onderkant een luchttoevoer slit, ook niet een enorm verschil in druk door het verschil in slits. 
+
+iteratie 2 heeft een toevoer voor lucht maar is erg klein, de cellen zorgen ook voor minder druk. de uiteinden hebben geen cellen waar lucht in kan, dit veranderen we de volgende keer. 
+
+iteratie 1 heeft geen lucht toevoer wat jammer is... wel merkten we op dat deze vorm nog veel te groot was. waardoor we de volgende iteratie kleiner gemaakt hebben 
